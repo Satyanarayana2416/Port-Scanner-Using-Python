@@ -28,15 +28,18 @@ Develop a command-line Python script that scans specified IP addresses or domain
    python port_scanner.py
 - Enter the IP address or domain name to scan.
 - The script will loop through a set range of ports and list the ones that are open.
-## 📂 Features- Scans ports using TCP socket connection
+## 📂 Features
+- Scans ports using TCP socket connection
 - Multi-threaded approach for faster scanning
 - Customizable port range
 - Displays open ports and associated services (if detected)
-## ✅ Expected OutcomeUsers will:- Identify open ports on target IP/domain
+## ✅ Expected OutcomeUsers will:
+- Identify open ports on target IP/domain
 - Understand basic socket programming
 - Learn how multi-threading improves scanning efficiency
 - Gain foundational knowledge in network security assessment
-## 📚 Further Learning- Implement service fingerprinting using banner grabbing
+## 📚 Further Learning
+- Implement service fingerprinting using banner grabbing
 - Create logs or reports for scanned results
 - Explore advanced scanners like Nmap or integrate with scanning APIs
 - Add exception handling and performance tracking
