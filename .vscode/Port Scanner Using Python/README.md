@@ -43,4 +43,5 @@ Develop a command-line Python script that scans specified IP addresses or domain
 - Create logs or reports for scanned results
 - Explore advanced scanners like Nmap or integrate with scanning APIs
 - Add exception handling and performance tracking
+
 ⚠️ DisclaimerUse this scanner ethically. Only scan devices you own or have explicit permission to test. Unauthorized scanning can violate laws and network policies.Built to explore, not exploit ⚙
